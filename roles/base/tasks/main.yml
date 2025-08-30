@@ -1,0 +1,4 @@
+- name: add ssh key for Franco
+  authorized_key: 
+    user: Franco
+    key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0uLu3bnyplWpjkP1v7dMhCzBZ6AqVD9nlJIJVNNU9B5bLhHx52ijEauZJihi31lGr3z/dPs+XcUJfQI05uIMIU+GxI7pitu9ER5jqbxFrKIoNG4g1XWHf+5SFszZZw5DKukDUkzqQoU+znzdw4tsButHQqhNqVCaJhV5ytwkHx88lMtgEBSoXec0csMiCJ4rC3f4MevdFmjlK48INUwtTMLzZezeaCSapBcSxy47kpdLZ9suQtNwaKZJpWx1T0i1rorcSnmC9pfYDR2L7kpCVU2Abn0sQJN3yzY9K8iarkSaP2tvx6DtMqtfNIyFeaNFPyFFlYXqMlTK4sNXExg/n vagrant@master"
